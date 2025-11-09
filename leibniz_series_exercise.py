@@ -5,3 +5,4 @@ def approximate_pi(n_terms):
      pi_value = 4* total
      return pi_value      
      return approximate_pi
+approximate_pi(100)     
