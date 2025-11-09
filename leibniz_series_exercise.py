@@ -4,4 +4,4 @@ def approximate_pi(n_terms):
          total+=((-1)**i/(2*i+1))
      pi_value = 4* total
      return pi_value      
-approximate_pi(100000)
+approximate_pi
